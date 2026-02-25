@@ -29,7 +29,7 @@ pip install bip_utils
 
 1. Run the script:
 ```bash
-python wallet_generator.py
+python main.py
 ```
 
 2. Enter the number of wallets you want to create
